@@ -1,0 +1,75 @@
+
+
+
+.blocosvermelhos {
+
+    display: inline-block;
+
+    border: 2px solid rgb(240, 239, 239);
+    
+    background-color: red;
+
+    width: 200px;
+
+    height: 200px;
+
+}
+.blocosazuis {
+
+    display: inline-block;
+
+    border: 2px solid rgb(245, 242, 242);
+    
+    background-color: blue;
+
+    width: 200px;
+
+    height: 200px;
+
+
+}
+
+.blocosverdes {
+
+    display: inline-block;
+
+    border: 2px solid rgb(242, 240, 240);
+    
+    background-color:green;
+
+    width: 200px;
+
+    height: 200px;
+
+
+}
+.blocosamarelos {
+
+    display: inline-block;
+
+    border: 2px solid rgb(249, 249, 249);
+    
+    background-color: yellow;
+
+    width: 200px;
+
+    height: 200px;
+  
+}
+
+.blocosvermelhosponta
+{
+
+    display: inline-block;
+
+    border: 2px solid rgb(5, 2, 2);
+    
+    background-color: red;
+
+    width: 200px;
+
+    height: 200px;
+
+
+
+}
